@@ -14,24 +14,31 @@
                     <div class="card-body">
                         <div class="btn-group w-100 mb-3" role="group">
                             <span class="input-group-text">Field: </span>
-                            <input type="radio" class="btn-check" name="btnradio" id="field-elem" autocomplete="off" checked>
+                            <input type="radio" class="btn-check" name="field-radio" id="field-elem" autocomplete="off" checked>
                             <label class="btn btn-outline-primary" for="field-elem">Elem.</label>
                           
-                            <input type="radio" class="btn-check" name="btnradio" id="field-jr" autocomplete="off">
+                            <input type="radio" class="btn-check" name="field-radio" id="field-jr" autocomplete="off">
                             <label class="btn btn-outline-primary" for="field-jr">Junior</label>
                           
-                            <input type="radio" class="btn-check" name="btnradio" id="field-sr" autocomplete="off">
+                            <input type="radio" class="btn-check" name="field-radio" id="field-sr" autocomplete="off">
                             <label class="btn btn-outline-primary" for="field-sr">Senior</label>
                         </div>
                         <button class="btn btn-success w-100" id="randomize-btn">&#x1F3B2; Randomize!</button>
                     </div>
                 </div>
+
+                <div class="card mb-3">
+                    <div class="card-header">Per-Event Randomization</div>
+                    <div class="card-body" id="board-options">
+                        
+                    </div>
+                </div>
             </div>
             <div class="col-12 col-lg-8">
                 <div class="card">
-                    <div class="card-header">Image</div>
+                    <div class="card-header">Field State</div>
                     <div class="card-body">
-                        <object id="field-image" data="elementary_blank.svg"></object>
+                        <object id="field-image" data=""></object>
                     </div>
                 </div>
             </div>
