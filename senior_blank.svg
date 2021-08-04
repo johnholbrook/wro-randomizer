@@ -11,22 +11,22 @@
     <g id="weather-water" transform="matrix(0.787992,0,0,0.922537,2099.31,-135.786)">
         <rect x="576.968" y="627.403" width="242.247" height="207.674" style="fill:none;stroke:black;stroke-width:4.66px;"/>
     </g>
-    <g id="energy-1a" transform="matrix(1,0,0,1,1,-1)">
+    <g id="energy-1" transform="matrix(1,0,0,1,1,-1)">
         <rect x="134.857" y="1405.5" width="43.711" height="38.88" style="fill:none;stroke:black;stroke-width:4px;"/>
     </g>
-    <g id="energy-2a" transform="matrix(1,0,0,1,91,-1)">
+    <g id="energy-2" transform="matrix(1,0,0,1,91,-1)">
         <rect x="134.857" y="1405.5" width="43.711" height="38.88" style="fill:none;stroke:black;stroke-width:4px;"/>
     </g>
-    <g id="energy-1b" transform="matrix(1,0,0,1,2325.01,-0.659539)">
+    <g id="energy-3" transform="matrix(1,0,0,1,2325.01,-0.659539)">
         <rect x="134.857" y="1405.5" width="43.711" height="38.88" style="fill:none;stroke:black;stroke-width:4px;"/>
     </g>
-    <g id="energy-2b" transform="matrix(1,0,0,1,2415.01,-0.659539)">
+    <g id="energy-4" transform="matrix(1,0,0,1,2415.01,-0.659539)">
         <rect x="134.857" y="1405.5" width="43.711" height="38.88" style="fill:none;stroke:black;stroke-width:4px;"/>
     </g>
-    <g id="energy-1c" transform="matrix(1,0,0,1,2220.66,-1228.49)">
+    <g id="energy-5" transform="matrix(1,0,0,1,2220.66,-1228.49)">
         <rect x="134.857" y="1405.5" width="43.711" height="38.88" style="fill:none;stroke:black;stroke-width:4px;"/>
     </g>
-    <g id="energy-2c" transform="matrix(1,0,0,1,2310.66,-1228.49)">
+    <g id="energy-6" transform="matrix(1,0,0,1,2310.66,-1228.49)">
         <rect x="134.857" y="1405.5" width="43.711" height="38.88" style="fill:none;stroke:black;stroke-width:4px;"/>
     </g>
     <defs>
